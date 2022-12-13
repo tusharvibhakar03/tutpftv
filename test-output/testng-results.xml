@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="0" total="11" passed="9">
+  <reporter-output>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\Manas Vibhakar\IdeaProjects\tutpftv/test-output/html/verifyThatUserPlaceOrderSuccessfullyTue_Dec_13_21_17_37_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\Manas Vibhakar\IdeaProjects\tutpftv/test-output/html/verifyThatUserPlaceOrderSuccessfullyTue_Dec_13_21_17_37_GMT_2022.jpg><img src=C:\Users\Manas Vibhakar\IdeaProjects\tutpftv/test-output/html/verifyThatUserPlaceOrderSuccessfullyTue_Dec_13_21_17_37_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\Manas Vibhakar\IdeaProjects\tutpftv/test-output/html/verifyThatUserRegisterAccountSuccessfullyTue_Dec_13_21_18_26_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\Manas Vibhakar\IdeaProjects\tutpftv/test-output/html/verifyThatUserRegisterAccountSuccessfullyTue_Dec_13_21_18_26_GMT_2022.jpg><img src=C:\Users\Manas Vibhakar\IdeaProjects\tutpftv/test-output/html/verifyThatUserRegisterAccountSuccessfullyTue_Dec_13_21_18_26_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="testsuite" duration-ms="178462" started-at="2022-12-13T21:16:07 GMT" finished-at="2022-12-13T21:19:06 GMT">
+    <groups>
+      <group name="regression">
+        <method signature="DesktopTest.verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.tutorial.demo.testsuite.DesktopTest@704d6e83]" name="verifyProductAddedToShoppingCartSuccessFully" class="com.tutorial.demo.testsuite.DesktopTest"/>
+        <method signature="DesktopTest.verifyProductArrangeInAlphabeticalOrder()[pri:0, instance:com.tutorial.demo.testsuite.DesktopTest@704d6e83]" name="verifyProductArrangeInAlphabeticalOrder" class="com.tutorial.demo.testsuite.DesktopTest"/>
+        <method signature="HomePageTest.verifyUserShouldNavigateToComponentsPageSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="verifyUserShouldNavigateToComponentsPageSuccessfully" class="com.tutorial.demo.testsuite.HomePageTest"/>
+        <method signature="HomePageTest.verifyUserShouldNavigateToDesktopsPageSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="verifyUserShouldNavigateToDesktopsPageSuccessfully" class="com.tutorial.demo.testsuite.HomePageTest"/>
+        <method signature="HomePageTest.verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" class="com.tutorial.demo.testsuite.HomePageTest"/>
+        <method signature="LaptopAndNotebooksTest.verifyProductsPriceDisplayHighToLowSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.LaptopAndNotebooksTest@68ceda24]" name="verifyProductsPriceDisplayHighToLowSuccessfully" class="com.tutorial.demo.testsuite.LaptopAndNotebooksTest"/>
+        <method signature="LaptopAndNotebooksTest.verifyThatUserPlaceOrderSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.LaptopAndNotebooksTest@68ceda24]" name="verifyThatUserPlaceOrderSuccessfully" class="com.tutorial.demo.testsuite.LaptopAndNotebooksTest"/>
+        <method signature="MyAccountTest.verifyThatUserRegisterAccountSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="verifyThatUserRegisterAccountSuccessfully" class="com.tutorial.demo.testsuite.MyAccountTest"/>
+        <method signature="MyAccountTest.verifyThatUserShouldLoginAndLogoutSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="verifyThatUserShouldLoginAndLogoutSuccessfully" class="com.tutorial.demo.testsuite.MyAccountTest"/>
+        <method signature="MyAccountTest.verifyUserShouldNavigateToLoginPageSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="verifyUserShouldNavigateToLoginPageSuccessfully" class="com.tutorial.demo.testsuite.MyAccountTest"/>
+        <method signature="MyAccountTest.verifyUserShouldNavigateToRegisterPageSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="verifyUserShouldNavigateToRegisterPageSuccessfully" class="com.tutorial.demo.testsuite.MyAccountTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="DesktopTest.verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.tutorial.demo.testsuite.DesktopTest@704d6e83]" name="verifyProductAddedToShoppingCartSuccessFully" class="com.tutorial.demo.testsuite.DesktopTest"/>
+        <method signature="HomePageTest.verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" class="com.tutorial.demo.testsuite.HomePageTest"/>
+        <method signature="LaptopAndNotebooksTest.verifyThatUserPlaceOrderSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.LaptopAndNotebooksTest@68ceda24]" name="verifyThatUserPlaceOrderSuccessfully" class="com.tutorial.demo.testsuite.LaptopAndNotebooksTest"/>
+        <method signature="MyAccountTest.verifyUserShouldNavigateToLoginPageSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="verifyUserShouldNavigateToLoginPageSuccessfully" class="com.tutorial.demo.testsuite.MyAccountTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="DesktopTest.verifyProductArrangeInAlphabeticalOrder()[pri:0, instance:com.tutorial.demo.testsuite.DesktopTest@704d6e83]" name="verifyProductArrangeInAlphabeticalOrder" class="com.tutorial.demo.testsuite.DesktopTest"/>
+        <method signature="HomePageTest.verifyUserShouldNavigateToDesktopsPageSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="verifyUserShouldNavigateToDesktopsPageSuccessfully" class="com.tutorial.demo.testsuite.HomePageTest"/>
+        <method signature="LaptopAndNotebooksTest.verifyProductsPriceDisplayHighToLowSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.LaptopAndNotebooksTest@68ceda24]" name="verifyProductsPriceDisplayHighToLowSuccessfully" class="com.tutorial.demo.testsuite.LaptopAndNotebooksTest"/>
+        <method signature="MyAccountTest.verifyUserShouldNavigateToRegisterPageSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="verifyUserShouldNavigateToRegisterPageSuccessfully" class="com.tutorial.demo.testsuite.MyAccountTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Desktop Test" duration-ms="178462" started-at="2022-12-13T21:16:07 GMT" finished-at="2022-12-13T21:19:06 GMT">
+      <class name="com.tutorial.demo.testsuite.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="setup" is-config="true" duration-ms="4029" started-at="2022-12-13T21:16:54 GMT" finished-at="2022-12-13T21:16:58 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="inIt" is-config="true" duration-ms="17" started-at="2022-12-13T21:16:58 GMT" finished-at="2022-12-13T21:16:58 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToComponentsPageSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="verifyUserShouldNavigateToComponentsPageSuccessfully" duration-ms="799" started-at="2022-12-13T21:16:58 GMT" finished-at="2022-12-13T21:16:58 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToComponentsPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="tearDown" is-config="true" duration-ms="1144" started-at="2022-12-13T21:16:58 GMT" finished-at="2022-12-13T21:17:00 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="setup" is-config="true" duration-ms="4059" started-at="2022-12-13T21:17:00 GMT" finished-at="2022-12-13T21:17:04 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="inIt" is-config="true" duration-ms="13" started-at="2022-12-13T21:17:04 GMT" finished-at="2022-12-13T21:17:04 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToDesktopsPageSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="verifyUserShouldNavigateToDesktopsPageSuccessfully" duration-ms="1240" started-at="2022-12-13T21:17:04 GMT" finished-at="2022-12-13T21:17:05 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToDesktopsPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="tearDown" is-config="true" duration-ms="1092" started-at="2022-12-13T21:17:05 GMT" finished-at="2022-12-13T21:17:06 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="setup" is-config="true" duration-ms="5484" started-at="2022-12-13T21:17:06 GMT" finished-at="2022-12-13T21:17:11 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="inIt" is-config="true" duration-ms="10" started-at="2022-12-13T21:17:11 GMT" finished-at="2022-12-13T21:17:11 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" duration-ms="1150" started-at="2022-12-13T21:17:11 GMT" finished-at="2022-12-13T21:17:13 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorial.demo.testsuite.HomePageTest@3b94d659]" name="tearDown" is-config="true" duration-ms="997" started-at="2022-12-13T21:17:13 GMT" finished-at="2022-12-13T21:17:14 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorial.demo.testsuite.HomePageTest -->
+      <class name="com.tutorial.demo.testsuite.DesktopTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tutorial.demo.testsuite.DesktopTest@704d6e83]" name="setup" is-config="true" duration-ms="9559" started-at="2022-12-13T21:16:08 GMT" finished-at="2022-12-13T21:16:18 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorial.demo.testsuite.DesktopTest@704d6e83]" name="inIt" is-config="true" duration-ms="212" started-at="2022-12-13T21:16:18 GMT" finished-at="2022-12-13T21:16:18 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.tutorial.demo.testsuite.DesktopTest@704d6e83]" name="verifyProductAddedToShoppingCartSuccessFully" duration-ms="26370" started-at="2022-12-13T21:16:18 GMT" finished-at="2022-12-13T21:16:44 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductAddedToShoppingCartSuccessFully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorial.demo.testsuite.DesktopTest@704d6e83]" name="tearDown" is-config="true" duration-ms="1213" started-at="2022-12-13T21:16:44 GMT" finished-at="2022-12-13T21:16:46 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tutorial.demo.testsuite.DesktopTest@704d6e83]" name="setup" is-config="true" duration-ms="4391" started-at="2022-12-13T21:16:46 GMT" finished-at="2022-12-13T21:16:50 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorial.demo.testsuite.DesktopTest@704d6e83]" name="inIt" is-config="true" duration-ms="9" started-at="2022-12-13T21:16:50 GMT" finished-at="2022-12-13T21:16:50 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyProductArrangeInAlphabeticalOrder()[pri:0, instance:com.tutorial.demo.testsuite.DesktopTest@704d6e83]" name="verifyProductArrangeInAlphabeticalOrder" duration-ms="2499" started-at="2022-12-13T21:16:50 GMT" finished-at="2022-12-13T21:16:53 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductArrangeInAlphabeticalOrder -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorial.demo.testsuite.DesktopTest@704d6e83]" name="tearDown" is-config="true" duration-ms="910" started-at="2022-12-13T21:16:53 GMT" finished-at="2022-12-13T21:16:54 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorial.demo.testsuite.DesktopTest -->
+      <class name="com.tutorial.demo.testsuite.MyAccountTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="setup" is-config="true" duration-ms="5053" started-at="2022-12-13T21:17:38 GMT" finished-at="2022-12-13T21:17:43 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="inIt" is-config="true" duration-ms="5" started-at="2022-12-13T21:17:43 GMT" finished-at="2022-12-13T21:17:43 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="FAIL" signature="verifyThatUserRegisterAccountSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="verifyThatUserRegisterAccountSuccessfully" duration-ms="42539" started-at="2022-12-13T21:17:43 GMT" finished-at="2022-12-13T21:18:26 GMT">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(text(),'Your Account Has Been Created!')]"}
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6fc351cfbdbe6deaf88df82bd700ebd4, findElement {using=xpath, value=//h1[contains(text(),'Your Account Has Been Created!')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\MANASV~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50217}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50217/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6fc351cfbdbe6deaf88df82bd700ebd4]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(text(),'Your Account Has Been Created!')]"}
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6fc351cfbdbe6deaf88df82bd700ebd4, findElement {using=xpath, value=//h1[contains(text(),'Your Account Has Been Created!')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\MANASV~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50217}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50217/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6fc351cfbdbe6deaf88df82bd700ebd4
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:541)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at com.sun.proxy.$Proxy14.getText(Unknown Source)
+at com.tutorial.demo.utility.Utility.getTextFromElement(Utility.java:64)
+at com.tutorial.demo.pages.MyAccount.getVerifyMessage(MyAccount.java:99)
+at com.tutorial.demo.testsuite.MyAccountTest.verifyThatUserRegisterAccountSuccessfully(MyAccountTest.java:57)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1249)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\Manas Vibhakar\IdeaProjects\tutpftv/test-output/html/verifyThatUserRegisterAccountSuccessfullyTue_Dec_13_21_18_26_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\Manas Vibhakar\IdeaProjects\tutpftv/test-output/html/verifyThatUserRegisterAccountSuccessfullyTue_Dec_13_21_18_26_GMT_2022.jpg><img src=C:\Users\Manas Vibhakar\IdeaProjects\tutpftv/test-output/html/verifyThatUserRegisterAccountSuccessfullyTue_Dec_13_21_18_26_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserRegisterAccountSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="tearDown" is-config="true" duration-ms="862" started-at="2022-12-13T21:18:26 GMT" finished-at="2022-12-13T21:18:27 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="setup" is-config="true" duration-ms="4045" started-at="2022-12-13T21:18:27 GMT" finished-at="2022-12-13T21:18:31 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="inIt" is-config="true" duration-ms="4" started-at="2022-12-13T21:18:31 GMT" finished-at="2022-12-13T21:18:31 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyThatUserShouldLoginAndLogoutSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="verifyThatUserShouldLoginAndLogoutSuccessfully" duration-ms="2253" started-at="2022-12-13T21:18:31 GMT" finished-at="2022-12-13T21:18:33 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserShouldLoginAndLogoutSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="tearDown" is-config="true" duration-ms="963" started-at="2022-12-13T21:18:33 GMT" finished-at="2022-12-13T21:18:34 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="setup" is-config="true" duration-ms="4796" started-at="2022-12-13T21:18:34 GMT" finished-at="2022-12-13T21:18:39 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="inIt" is-config="true" duration-ms="2" started-at="2022-12-13T21:18:39 GMT" finished-at="2022-12-13T21:18:39 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToLoginPageSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="verifyUserShouldNavigateToLoginPageSuccessfully" duration-ms="626" started-at="2022-12-13T21:18:39 GMT" finished-at="2022-12-13T21:18:39 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToLoginPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="tearDown" is-config="true" duration-ms="957" started-at="2022-12-13T21:18:39 GMT" finished-at="2022-12-13T21:18:40 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="setup" is-config="true" duration-ms="3639" started-at="2022-12-13T21:18:40 GMT" finished-at="2022-12-13T21:18:44 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="inIt" is-config="true" duration-ms="2" started-at="2022-12-13T21:18:44 GMT" finished-at="2022-12-13T21:18:44 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToRegisterPageSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="verifyUserShouldNavigateToRegisterPageSuccessfully" duration-ms="21114" started-at="2022-12-13T21:18:44 GMT" finished-at="2022-12-13T21:19:05 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToRegisterPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorial.demo.testsuite.MyAccountTest@35a50a4c]" name="tearDown" is-config="true" duration-ms="845" started-at="2022-12-13T21:19:05 GMT" finished-at="2022-12-13T21:19:06 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorial.demo.testsuite.MyAccountTest -->
+      <class name="com.tutorial.demo.testsuite.LaptopAndNotebooksTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tutorial.demo.testsuite.LaptopAndNotebooksTest@68ceda24]" name="setup" is-config="true" duration-ms="4369" started-at="2022-12-13T21:17:14 GMT" finished-at="2022-12-13T21:17:18 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorial.demo.testsuite.LaptopAndNotebooksTest@68ceda24]" name="inIt" is-config="true" duration-ms="4" started-at="2022-12-13T21:17:18 GMT" finished-at="2022-12-13T21:17:18 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyProductsPriceDisplayHighToLowSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.LaptopAndNotebooksTest@68ceda24]" name="verifyProductsPriceDisplayHighToLowSuccessfully" duration-ms="1824" started-at="2022-12-13T21:17:18 GMT" finished-at="2022-12-13T21:17:20 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductsPriceDisplayHighToLowSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorial.demo.testsuite.LaptopAndNotebooksTest@68ceda24]" name="tearDown" is-config="true" duration-ms="1029" started-at="2022-12-13T21:17:20 GMT" finished-at="2022-12-13T21:17:21 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tutorial.demo.testsuite.LaptopAndNotebooksTest@68ceda24]" name="setup" is-config="true" duration-ms="3965" started-at="2022-12-13T21:17:21 GMT" finished-at="2022-12-13T21:17:25 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorial.demo.testsuite.LaptopAndNotebooksTest@68ceda24]" name="inIt" is-config="true" duration-ms="5" started-at="2022-12-13T21:17:25 GMT" finished-at="2022-12-13T21:17:25 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="FAIL" signature="verifyThatUserPlaceOrderSuccessfully()[pri:0, instance:com.tutorial.demo.testsuite.LaptopAndNotebooksTest@68ceda24]" name="verifyThatUserPlaceOrderSuccessfully" duration-ms="11523" started-at="2022-12-13T21:17:25 GMT" finished-at="2022-12-13T21:17:36 GMT">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Error Message not displayed expected [New Customer] but found []]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Error Message not displayed expected [New Customer] but found []
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at com.tutorial.demo.testsuite.LaptopAndNotebooksTest.verifyThatUserPlaceOrderSuccessfully(LaptopAndNotebooksTest.java:74)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1249)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\Manas Vibhakar\IdeaProjects\tutpftv/test-output/html/verifyThatUserPlaceOrderSuccessfullyTue_Dec_13_21_17_37_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\Manas Vibhakar\IdeaProjects\tutpftv/test-output/html/verifyThatUserPlaceOrderSuccessfullyTue_Dec_13_21_17_37_GMT_2022.jpg><img src=C:\Users\Manas Vibhakar\IdeaProjects\tutpftv/test-output/html/verifyThatUserPlaceOrderSuccessfullyTue_Dec_13_21_17_37_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserPlaceOrderSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorial.demo.testsuite.LaptopAndNotebooksTest@68ceda24]" name="tearDown" is-config="true" duration-ms="1132" started-at="2022-12-13T21:17:37 GMT" finished-at="2022-12-13T21:17:38 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorial.demo.testsuite.LaptopAndNotebooksTest -->
+    </test> <!-- Desktop Test -->
+  </suite> <!-- testsuite -->
+</testng-results>

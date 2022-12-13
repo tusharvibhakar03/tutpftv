@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [testsuite]">
+  <listeners>
+    <listener class-name="com.tutorial.demo.customlisteners.CustomListeners"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test thread-count="5" name="Desktop Test(failed)">
+    <classes>
+      <class name="com.tutorial.demo.testsuite.LaptopAndNotebooksTest">
+        <methods>
+          <include name="setup"/>
+          <include name="verifyThatUserPlaceOrderSuccessfully"/>
+          <include name="tearDown"/>
+          <include name="inIt"/>
+        </methods>
+      </class> <!-- com.tutorial.demo.testsuite.LaptopAndNotebooksTest -->
+      <class name="com.tutorial.demo.testsuite.MyAccountTest">
+        <methods>
+          <include name="verifyThatUserRegisterAccountSuccessfully"/>
+          <include name="setup"/>
+          <include name="inIt"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.tutorial.demo.testsuite.MyAccountTest -->
+    </classes>
+  </test> <!-- Desktop Test(failed) -->
+</suite> <!-- Failed suite [testsuite] -->
